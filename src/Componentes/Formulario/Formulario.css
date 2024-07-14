@@ -1,0 +1,41 @@
+.formulario{
+
+background-color: #d8eeec;
+display: flex;
+justify-content: center;
+
+
+}
+
+.formulario form{
+    
+    background-image: url(C:\Users\Hecto\Documents\alura-geek\public\img\AluraCaratula.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #b2b4b2;
+    box-shadow: 7px 7px 15px #54585a;
+    border-radius: 21px;
+    max-width: 65% ;
+    height: 510px ;
+    padding: 40px ;
+
+}
+.formulario h2{
+     
+    display: flex;
+    column-gap: 1px;
+    justify-content: center;
+    font-size: 30px;
+    padding: 2px 2px 0;
+    margin: 1px 1px 0;
+
+
+}
+.contenedorBotones{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 30px 20px 0;
+
+}

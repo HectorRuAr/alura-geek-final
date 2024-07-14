@@ -1,0 +1,15 @@
+.boton{
+
+    display: flex;
+    padding: 5px 20px 10px;
+    background-color: #a7a4e0;
+    box-shadow: 5px 5px 10px #54585a;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 10px;
+    font-size: 20px;
+    
+
+}

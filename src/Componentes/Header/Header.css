@@ -1,0 +1,14 @@
+.header{
+
+background-color:  #5300C8;
+width: Fill (1,440px)px;
+height: Hug (96px)px;
+padding: 20px 0px 20px 0px;
+gap: 0px;
+opacity: 0px;
+
+display: flex;
+justify-content: center;
+
+}
+

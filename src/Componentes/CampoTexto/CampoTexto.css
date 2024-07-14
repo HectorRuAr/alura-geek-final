@@ -1,0 +1,26 @@
+
+.campo-texto{
+   
+    margin: 24px 0;
+    padding: 25px 25px 0;
+    
+
+}
+.campo-texto input{
+
+    background-color: #CADC9F;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 15px;
+    font-size: 20px;
+    border-color: #514689;
+    width: 95%;
+    height: 30px;
+    outline-color: #c004c0;
+    color: #0F380F;
+    
+
+}
+

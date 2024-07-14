@@ -1,0 +1,18 @@
+.BotonAgregar{
+
+display: flex;
+justify-content: center;
+align-items: stretch;
+font-size: 20px;
+background-color: #C004D9;
+padding: 10px 10px 10px;
+gap: 25px;
+
+}
+.BotonAgregar img{
+
+   
+   cursor: pointer;
+   
+
+}
